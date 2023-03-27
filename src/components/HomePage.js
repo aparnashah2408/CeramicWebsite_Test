@@ -1,5 +1,5 @@
 import React from 'react'
-import Title from './Title';
+import Title from '../components/Title/Title';
 import RecommendationSection from './RecommendationSection';
 import SkillsSection from './SkillSection';
 import ProjectSection from './ProjectSection';

@@ -1,5 +1,6 @@
 import React from "react";
 import {Link} from "react-router-dom";
+import {imageUrl} from "../images/ceramics.jpg";
 
 function ProjectCard(props) {
   const {id, title, excerpt, imageUrl } = props.project;

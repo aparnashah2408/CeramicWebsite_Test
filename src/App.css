@@ -6,6 +6,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background: #FCFAF2;
 }
 
 .markdown img {
@@ -18,7 +19,6 @@ label {
 }
 
 .navbar {
-  background: black;
   opacity: 80%;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
@@ -41,21 +41,7 @@ label {
   margin-top: 30px;
 }
 
-.name {
-  z-index: 2;
-  background: rgb(255, 255, 255, 0.4);
-  border: 2px solid rgba(255, 255, 255, 0.2);
-  border-radius: 20px;
-  margin: 20px;
-  padding: 20px;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  backdrop-filter: blur(8px);
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  transform: translateX(-50%) translateY(-50%);
-}
+
 
 .shape {
   height: 10rem;
@@ -65,7 +51,8 @@ label {
 }
 
 .title {
-  background: black;
+  background: #5977B4;
+  height: 90vh;
 }
 
 .title.row {

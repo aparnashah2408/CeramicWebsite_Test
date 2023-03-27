@@ -11,7 +11,7 @@ function ProjectSection() {
           return (
             <div className="container text-center my-5">
               <h1 className="font-weight-light blogs">
-                My <span className="text-warning">Projects</span>
+                Our <span className="text-warning">Products</span>
               </h1>
               <div className="lead projects">I build products. Just like this website</div>
               <div className="row my-5 pt-3">
