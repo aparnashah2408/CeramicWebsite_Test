@@ -1,0 +1,11 @@
+.navbar {
+    opacity: 100% !important;
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-family: "Arvo", serif;
+  }
+.logo{
+    height: 5.5vh;
+    z-index: 2;
+}

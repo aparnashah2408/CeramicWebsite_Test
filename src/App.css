@@ -18,12 +18,7 @@ label {
   float: left;
 }
 
-.navbar {
-  opacity: 80%;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-  font-family: "Arvo", serif;
-}
+
 
 @keyframes fade {
   0% {
